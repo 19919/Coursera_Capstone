@@ -1,0 +1,10 @@
+Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute.
+Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem,
+so make sure that you explicitly describe your audience and why they would care about your problem.
+
+Everybody has a dream place where they want to live, but as housing prices have skyrockeded during the past years, the area where one ideally would want to live, 
+may not be in range when it comes to affordability - especially for people with huge student loans. In this project, I try to mitigate some of that issue by providing
+a framework where a person who has seen their dream area but think it's too expensive, can see what other areas that are similar, but cheaper.
+
+For the purpose of this lab i limit i limit my selection to the west coast of the US, with my favourite area set to seattle. I crudley proxy the cost of living with the median
+household income, and assume it's strongly correlated.
