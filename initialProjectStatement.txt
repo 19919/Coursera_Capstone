@@ -3,8 +3,11 @@ Remember that data science problems always target an audience and are meant to h
 so make sure that you explicitly describe your audience and why they would care about your problem.
 
 Everybody has a dream place where they want to live, but as housing prices have skyrockeded during the past years, the area where one ideally would want to live, 
-may not be in range when it comes to affordability - especially for people with huge student loans. In this project, I try to mitigate some of that issue by providing
+may not be in range when it comes to affordability. In this project, I try to mitigate some of that issue by providing
 a framework where a person who has seen their dream area but think it's too expensive, can see what other areas that are similar, but cheaper.
 
 For the purpose of this lab i limit i limit my selection to the west coast of the US, with my favourite area set to seattle. I crudley proxy the cost of living with the median
 household income, and assume it's strongly correlated.
+
+As data points I will use the Foursquare data as described in the previous labs and then also utilize income data from St. Louis Fed (https://geofred.stlouisfed.org/map/?th=reds&cc=5&rc=false&im=fractile&sb&lng=-90.00&lat=39.98&zm=4&sl&sv&am=Average&at=Not%20Seasonally%20Adjusted,%20Annual,%20Dollars,%20no_period_desc&sti=1019&fq=Annual&rt=county&un=lin&dt=2019-01-01)
+
