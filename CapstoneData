@@ -1,0 +1,5 @@
+In this lab I will use the Foursquare Data via the API. I will use the basic calls to find out what kind of establishments there are in one are and then use
+clustering to see how that data compares to other regions in the dataset.
+
+I will also utilize data from St. Louis Fed on income per County, which I will use as a proxy for cost of living. The link to the data can be found below.
+https://geofred.stlouisfed.org/map/?th=reds&cc=5&rc=false&im=fractile&sb&lng=-90.00&lat=39.98&zm=4&sl&sv&am=Average&at=Not%20Seasonally%20Adjusted,%20Annual,%20Dollars,%20no_period_desc&sti=1019&fq=Annual&rt=county&un=lin&dt=2019-01-01
